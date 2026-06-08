@@ -1,0 +1,4 @@
+ticker,value_score,value_class,valuation_score,debt_score,model,lifecycle_state,execution_authority
+BRK.B,79.74,Good Value,76.16,100.0,VALUE_V1,Research,False
+AAPL,26.77,Expensive,21.69,55.56,VALUE_V1,Research,False
+CHEAP,100.0,Deep Value,100.0,100.0,VALUE_V1,Research,False
