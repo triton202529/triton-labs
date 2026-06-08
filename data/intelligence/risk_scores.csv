@@ -1,0 +1,4 @@
+ticker,risk_score,risk_class,model,lifecycle_state,execution_authority
+BRK.B,84.2,Low Risk,RISK_V1,Research,False
+SPY,75.39,Moderate Risk,RISK_V1,Research,False
+MEME,0.0,High Risk,RISK_V1,Research,False
