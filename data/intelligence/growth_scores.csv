@@ -1,0 +1,4 @@
+ticker,growth_score,growth_class,model,lifecycle_state,execution_authority
+NVDA,97.5,Hyper Growth,GROWTH_V1,Research,False
+MSFT,56.7,Low Growth,GROWTH_V1,Research,False
+STAGNANT,4.5,Low Growth,GROWTH_V1,Research,False
