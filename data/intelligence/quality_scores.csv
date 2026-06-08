@@ -1,0 +1,4 @@
+ticker,quality_score,quality_class,profitability_score,capital_efficiency_score,financial_strength_score,cash_generation_score,model,lifecycle_state,execution_authority
+MSFT,99.5,Elite Quality,100.0,100.0,97.5,100.0,QUALITY_V1,Research,False
+AAPL,94.0,Elite Quality,100.0,100.0,70.0,100.0,QUALITY_V1,Research,False
+WEAK,6.31,Below Desired Quality Threshold,11.77,7.58,0.0,1.5,QUALITY_V1,Research,False
