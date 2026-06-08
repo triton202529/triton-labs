@@ -1,0 +1,4 @@
+ticker,momentum_score,momentum_class,model,lifecycle_state,execution_authority
+NVDA,92.65,Explosive Momentum,MOMENTUM_V1,Research,False
+MSFT,72.45,Positive Momentum,MOMENTUM_V1,Research,False
+FALLING,19.5,Weak Momentum,MOMENTUM_V1,Research,False
