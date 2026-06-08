@@ -1,0 +1,5 @@
+ticker,fusion_score,fusion_class,action,model,lifecycle_state,execution_authority
+MSFT,76.97,Attractive,BUY,FUSION_V1,Research,False
+AAPL,66.65,Watchlist,WATCH,FUSION_V1,Research,False
+SUPER,92.75,Exceptional Opportunity,STRONG_BUY,FUSION_V1,Research,False
+TRASH,13.75,Avoid,AVOID,FUSION_V1,Research,False
